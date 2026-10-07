@@ -25,7 +25,7 @@ This is the backend RESTful API for the Renta application. It is built using Nod
 
 **Clone the repository and navigate into it:**
 ```bash
-git clone <your-repo-url>
+git clone Frozyne/renta
 cd renta
 
 npm install
